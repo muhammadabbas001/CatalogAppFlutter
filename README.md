@@ -1,4 +1,4 @@
-# namer_app
+# CatalogApp
 
 A new Flutter project.
 
